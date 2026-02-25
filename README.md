@@ -1,3 +1,3 @@
 # Exercícios em C
 
-Exercícios básicos feito C
+Praticando C com exercícios simples.
