@@ -1,3 +1,19 @@
+/*  Exercício: Calculadora simples
+
+    Descrição: 
+         O programa lê dois números inteiros e permite que o usuário
+        escolha uma operação matemática (soma, subtração,
+        multiplicação ou divisão).
+
+         A operação é executada por meio da estrutura switch.
+        Na divisão, é feita uma verificação para evitar divisão
+        por zero.
+
+    Conceitos aprendidos:
+        - Estrutura condicional (switch-case)
+        - Casting (conversão explícita de tipo)
+ */
+
 #include <stdio.h> 
 #include <windows.h>
 
